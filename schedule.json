@@ -4,51 +4,51 @@
     {
       "day": "Понедельник",
       "lessons": [
-        { "title": "Матан", "start": "12:50", "end": "14:25", "teacher": "Никитин А.Н.", "room": "П-6" },
-        { "title": "ОБЖ", "start": "14:35", "end": "16:10", "teacher": "Суслов Н.Н.", "room": "607" },
+        { "title": "Матан", "start": "12:50", "end": "14:25", "teacher": "Никитин А.Н.", "room": "П-6", "type": "lecture"},
+        { "title": "ОБЖ", "start": "14:35", "end": "16:10", "teacher": "Суслов Н.Н.", "room": "607", "type": "seminar"},
         { "title": "Физкультура", "start": "16:50", "end": "18:20" }
       ]
     },
     {
       "day": "Вторник",
       "lessons": [
-        { "title": "Матан", "start": "10:30", "end": "12:05", "teacher": "Буничева А.Я.", "room": "606" },
-        { "title": "Линал", "start": "12:50", "end": "14:25", "teacher": "Панферов В.С.", "room": "П-5" },
-        { "title": "Англ", "start": "14:35", "end": "16:10", "teacher": "Потапова Н.М.", "room": "785" },
-        { "title": "Практикум ЭВМ", "start": "16:20", "end": "17:55", "teacher": "Пашков В.Н.", "room": "515" }
+        { "title": "Матан", "start": "10:30", "end": "12:05", "teacher": "Буничева А.Я.", "room": "606", "type": "seminar"},
+        { "title": "Линал", "start": "12:50", "end": "14:25", "teacher": "Панферов В.С.", "room": "П-5", "type": "lecture"},
+        { "title": "Англ", "start": "14:35", "end": "16:10", "teacher": "Потапова Н.М.", "room": "785", "type": "seminar"},
+        { "title": "Практикум ЭВМ", "start": "16:20", "end": "17:55", "teacher": "Пашков В.Н.", "room": "515", "type": "seminar"}
       ]
     },
     {
       "day": "Среда",
       "lessons": [
-        { "title": "Алгоритмы", "start": "08:45", "end": "10:20", "teacher": "Корухова Ю.С.", "room": "П-13" },
-        { "title": "Алгоритмы", "start": "10:30", "end": "12:05", "teacher": "Корухова Ю.С.", "room": "П-13" },
-        { "title": "Матан", "start": "12:50", "end": "14:25", "teacher": "Никитин А.Н.", "room": "П-11" }
+        { "title": "Алгоритмы", "start": "08:45", "end": "10:20", "teacher": "Корухова Ю.С.", "room": "П-13", "type": "lecture"},
+        { "title": "Алгоритмы", "start": "10:30", "end": "12:05", "teacher": "Корухова Ю.С.", "room": "П-13", "type": "lecture"},
+        { "title": "Матан", "start": "12:50", "end": "14:25", "teacher": "Никитин А.Н.", "room": "П-11", "type": "lecture"}
       ]
     },
     {
       "day": "Четверг",
       "lessons": [
-        { "title": "Линал", "start": "08:45", "end": "10:20", "teacher": "Морозова В.А.", "room": "615" },
-        { "title": "История", "start": "10:30", "end": "12:05", "teacher": "Меркулова А.М.", "room": "П-5" },
-        { "title": "Линал", "start": "12:50", "end": "14:25", "teacher": "Панферов В.С.", "room": "П-5" }
+        { "title": "Линал", "start": "08:45", "end": "10:20", "teacher": "Морозова В.А.", "room": "615", "type": "seminar"},
+        { "title": "История", "start": "10:30", "end": "12:05", "teacher": "Меркулова А.М.", "room": "П-5", "type": "lecture"},
+        { "title": "Линал", "start": "12:50", "end": "14:25", "teacher": "Панферов В.С.", "room": "П-5", "type": "lecture"}
       ]
     },
     {
       "day": "Пятница",
       "lessons": [
         { "title": "Физкультура", "start": "09:00", "end": "10:30" },
-        { "title": "Практикум ЭВМ", "start": "10:40", "end": "12:15", "teacher": "Пашков В.Н.", "room": "659/515" },
-        { "title": "Английский", "start": "12:50", "end": "14:25", "teacher": "Потапова Н.М.", "room": "71" },
-        { "title": "История", "start": "14:35", "end": "16:10", "teacher": "Никитина А.А.", "room": "527" }
+        { "title": "Практикум ЭВМ", "start": "10:40", "end": "12:15", "teacher": "Пашков В.Н.", "room": "515", "type": "seminar"},
+        { "title": "Английский", "start": "12:50", "end": "14:25", "teacher": "Потапова Н.М.", "room": "71", "type": "semianar"},
+        { "title": "История", "start": "14:35", "end": "16:10", "teacher": "Никитина А.А.", "room": "527", "type": "seminar"}
       ]
     },
     {
       "day": "Суббота",
       "lessons": [
-        { "title": "ОРГ", "start": "9:00", "end": "12:05", "teacher": "Преподаватель", "room": "П-14" },
-        { "title": "Матан", "start": "12:50", "end": "14:25", "teacher": "Буничева А.Я.", "room": "606" },
-        { "title": "Линал", "start": "14:35", "end": "16:10", "teacher": "Морозова В.А.", "room": "624" }
+        { "title": "ОРГ", "start": "9:00", "end": "12:05", "teacher": "Преподаватель", "room": "П-14", "type": "lecture"},
+        { "title": "Матан", "start": "12:50", "end": "14:25", "teacher": "Буничева А.Я.", "room": "606", "type": "seminar"},
+        { "title": "Линал", "start": "14:35", "end": "16:10", "teacher": "Морозова В.А.", "room": "624", "type": "seminar"}
       ]
     }
   ]
