@@ -39,7 +39,7 @@
       "lessons": [
         { "title": "Физкультура", "start": "09:00", "end": "10:30" },
         { "title": "Практикум ЭВМ", "start": "10:40", "end": "12:15", "teacher": "Пашков В.Н.", "room": "515", "type": "seminar"},
-        { "title": "Английский", "start": "12:50", "end": "14:25", "teacher": "Потапова Н.М.", "room": "71", "type": "semianar"},
+        { "title": "Английский", "start": "12:50", "end": "14:25", "teacher": "Потапова Н.М.", "room": "71", "type": "seminar"},
         { "title": "История", "start": "14:35", "end": "16:10", "teacher": "Никитина А.А.", "room": "527", "type": "seminar"}
       ]
     },
