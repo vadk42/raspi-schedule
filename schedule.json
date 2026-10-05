@@ -5,7 +5,7 @@
       "day": "Понедельник",
       "lessons": [
         { "title": "Матан", "start": "12:50", "end": "14:25", "teacher": "Никитин А.Н.", "room": "П-6", "type": "lecture"},
-        { "title": "БЖД", "start": "14:35", "end": "16:10", "teacher": "Волков О.И.", "room": "607", "type": "seminar"},
+        { "title": "ОБЖ", "start": "14:35", "end": "16:10", "teacher": "Волков О.И.", "room": "607", "type": "seminar"},
         { "title": "Физкультура", "start": "16:50", "end": "18:20" }
       ]
     },
