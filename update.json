@@ -1,6 +1,6 @@
 {
   "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/vadk42/raspi-schedule/releases/download/1.1.1/Raspi111.apk",
-  "releaseNotes": "1. Добавлен список изменений (Что нового)\n2. Улчучшена стабильность загрузки уведомлений."
+  "versionName": "1.2",
+  "apkUrl": "https://github.com/vadk42/raspi-schedule/releases/download/1.2/Raspi111.apk",
+  "releaseNotes": "Проверка на обновление"
 }
