@@ -1,10 +1,7 @@
 {
-  {
   "version": 1,
   "semesterStart": "2026-09-01",
-  "sessionStart": "2027-01-3",
-  "days": [ ... ]
-}
+  "sessionStart": "2027-01-03",
   "days": [
     {
       "day": "Понедельник",
