@@ -46,7 +46,7 @@
     {
       "day": "Суббота",
       "lessons": [
-        { "title": "ОРГ", "start": "9:00", "end": "12:05", "teacher": "Преподаватель", "room": "П-14", "type": "lecture"},
+        { "title": "ОРГ", "start": "9:00", "end": "12:05", "teacher": "Алексеев Р.А.", "room": "П-14", "type": "lecture"},
         { "title": "Матан", "start": "12:50", "end": "14:25", "teacher": "Буничева А.Я.", "room": "606", "type": "seminar"},
         { "title": "Линал", "start": "14:35", "end": "16:10", "teacher": "Морозова В.А.", "room": "624", "type": "seminar"}
       ]
