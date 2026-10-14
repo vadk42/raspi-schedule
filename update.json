@@ -2,5 +2,5 @@
   "versionCode": 3,
   "versionName": "1.51",
   "apkUrl": "https://github.com/vadk42/raspi-schedule/releases/download/1.5.1/raspi151.apk",
-  "releaseNotes": " 1. Улучшен вступительный экран.\n2.Немного улучшен главный экран."
+  "releaseNotes": "1. Улучшен вступительный экран.\n2. Немного пересобран главный экран.\n3. Улучшена общая производительность."
 }
