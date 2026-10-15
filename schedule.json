@@ -15,7 +15,7 @@
       "day": "Вторник",
       "lessons": [
         { "title": "Матан", "start": "10:30", "end": "12:05", "teacher": "Буничева А.Я.", "room": "606", "type": "seminar"},
-        { "title": "Линал", "start": "12:50", "end": "14:25", "teacher": "Панферов В.С.", "room": "П-5", "type": "lecture"},
+        { "title": "Линал", "start": "12:50", "end": "14:25", "teacher": "Золотарева Н.Д.", "room": "П-5", "type": "lecture"},
         { "title": "Англ", "start": "14:35", "end": "16:10", "teacher": "Потапова Н.М.", "room": "785", "type": "seminar"},
         { "title": "Практикум ЭВМ", "start": "16:20", "end": "17:55", "teacher": "Пашков В.Н.", "room": "515", "type": "seminar"}
       ]
@@ -33,7 +33,7 @@
       "lessons": [
         { "title": "Линал", "start": "08:45", "end": "10:20", "teacher": "Морозова В.А.", "room": "615", "type": "seminar"},
         { "title": "История", "start": "10:30", "end": "12:05", "teacher": "Меркулова А.М.", "room": "П-5", "type": "lecture"},
-        { "title": "Линал", "start": "12:50", "end": "14:25", "teacher": "Панферов В.С.", "room": "П-5", "type": "lecture"}
+        { "title": "Линал", "start": "12:50", "end": "14:25", "teacher": "Золотарева Н.Д.", "room": "П-5", "type": "lecture"}
       ]
     },
     {
