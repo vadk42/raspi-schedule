@@ -1,4 +1,5 @@
 {
+  "updated": "2026-10-16",
   "items": [
     {
       "id": "5f62f3ae",
@@ -8,7 +9,22 @@
       "photos": [
         "https:\/\/raw.githubusercontent.com\/vadk42\/raspi-schedule\/main\/hw_files\/5f62f3ae_p1.jpg"
       ]
+    },
+    {
+      "id": "d871504c",
+      "date": "2026-10-17",
+      "subject": "ОРГ",
+      "text": "посмотреть видео",
+      "fileUrl": "https:\/\/raw.githubusercontent.com\/vadk42\/raspi-schedule\/main\/hw_files\/d871504c_VID_20261016_224902_794.mp4",
+      "fileName": "VID_20261016_224902_794.mp4"
+    },
+    {
+      "id": "d871504c",
+      "date": "2026-10-17",
+      "subject": "ОРГ",
+      "text": "посмотреть видео",
+      "fileUrl": "https:\/\/raw.githubusercontent.com\/vadk42\/raspi-schedule\/main\/hw_files\/d871504c_VID_20261016_224902_794.mp4",
+      "fileName": "VID_20261016_224902_794.mp4"
     }
-  ],
-  "updated": "2026-10-16"
+  ]
 }
