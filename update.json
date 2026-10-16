@@ -1,6 +1,6 @@
 {
   "versionCode": 3,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/vadk42/raspi-schedule/releases/download/1.6/raspi16.apk",
-  "releaseNotes": "1. Улучшены анимации.\n2. Переработаны заметки.\n3. Улучшена общая производительность приложения."
+  "versionName": "2.0",
+  "apkUrl": "https://github.com/vadk42/raspi-schedule/releases/download/2.0/app-debug.apk",
+  "releaseNotes": "Все сломал ничего не работает"
 }
