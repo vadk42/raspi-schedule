@@ -1,4 +1,38 @@
 {
   "updated": "2026-10-16",
-  "items": []
+  "items": [
+    {
+      "id": "757ca799",
+      "date": "2026-10-17",
+      "subject": "ОРГ",
+      "text": "задали ничего",
+      "photos": [
+        "https:\/\/raw.githubusercontent.com\/vadk42\/raspi-schedule\/main\/hw_files\/757ca799_p1.jpg"
+      ],
+      "fileUrl": "https:\/\/raw.githubusercontent.com\/vadk42\/raspi-schedule\/main\/hw_files\/757ca799_Screenshot_2026-10-16-18-12-52-48_20c04124d8e94653e83c9167c0adde40.jpg",
+      "fileName": "Screenshot_2026-10-16-18-12-52-48_20c04124d8e94653e83c9167c0adde40.jpg"
+    },
+    {
+      "id": "757ca799",
+      "date": "2026-10-17",
+      "subject": "ОРГ",
+      "text": "задали ничего",
+      "photos": [
+        "https:\/\/raw.githubusercontent.com\/vadk42\/raspi-schedule\/main\/hw_files\/757ca799_p1.jpg"
+      ],
+      "fileUrl": "https:\/\/raw.githubusercontent.com\/vadk42\/raspi-schedule\/main\/hw_files\/757ca799_Screenshot_2026-10-16-18-12-52-48_20c04124d8e94653e83c9167c0adde40.jpg",
+      "fileName": "Screenshot_2026-10-16-18-12-52-48_20c04124d8e94653e83c9167c0adde40.jpg"
+    },
+    {
+      "id": "a3d12713",
+      "date": "2026-10-17",
+      "subject": "ОРГ",
+      "text": "Ничего не задали",
+      "photos": [
+        "https:\/\/raw.githubusercontent.com\/vadk42\/raspi-schedule\/main\/hw_files\/a3d12713_p1.jpg"
+      ],
+      "fileUrl": "https:\/\/raw.githubusercontent.com\/vadk42\/raspi-schedule\/main\/hw_files\/a3d12713_Screenshot_2026-10-16-17-01-45-06_b0b3b40de9baaa863736f19a221577cd.jpg",
+      "fileName": "Screenshot_2026-10-16-17-01-45-06_b0b3b40de9baaa863736f19a221577cd.jpg"
+    }
+  ]
 }
