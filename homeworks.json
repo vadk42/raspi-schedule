@@ -33,6 +33,15 @@
       ],
       "fileUrl": "https:\/\/raw.githubusercontent.com\/vadk42\/raspi-schedule\/main\/hw_files\/a3d12713_Screenshot_2026-10-16-17-01-45-06_b0b3b40de9baaa863736f19a221577cd.jpg",
       "fileName": "Screenshot_2026-10-16-17-01-45-06_b0b3b40de9baaa863736f19a221577cd.jpg"
+    },
+    {
+      "id": "d71a3c7d",
+      "date": "2026-10-17",
+      "subject": "Матан",
+      "text": "Пасхалка",
+      "photos": [
+        "https:\/\/raw.githubusercontent.com\/vadk42\/raspi-schedule\/main\/hw_files\/d71a3c7d_p1.jpg"
+      ]
     }
   ]
 }
