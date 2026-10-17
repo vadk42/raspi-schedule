@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "items": [
     {
       "id": "5f62f3ae",
@@ -19,12 +19,15 @@
       "fileName": "VID_20261016_224902_794.mp4"
     },
     {
-      "id": "d871504c",
+      "id": "c11a8b84",
       "date": "2026-10-17",
-      "subject": "ОРГ",
-      "text": "посмотреть видео",
-      "fileUrl": "https:\/\/raw.githubusercontent.com\/vadk42\/raspi-schedule\/main\/hw_files\/d871504c_VID_20261016_224902_794.mp4",
-      "fileName": "VID_20261016_224902_794.mp4"
+      "subject": "Линал",
+      "text": "здравствуйте",
+      "photos": [
+        "https:\/\/raw.githubusercontent.com\/vadk42\/raspi-schedule\/main\/hw_files\/c11a8b84_p1.jpg",
+        "https:\/\/raw.githubusercontent.com\/vadk42\/raspi-schedule\/main\/hw_files\/c11a8b84_p2.jpg",
+        "https:\/\/raw.githubusercontent.com\/vadk42\/raspi-schedule\/main\/hw_files\/c11a8b84_p3.jpg"
+      ]
     }
   ]
 }
